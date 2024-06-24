@@ -7,3 +7,5 @@
 
 https://github.com/Abdallahzezo/Elzero_Template1/assets/100561400/22d94372-e4ff-467d-bb51-4624fcce58b7
 
+### Website Clone
+This website is a clone of the original site. It has been replicated for educational and demonstration purposes. All credit for the original content and design goes to the original creators.
